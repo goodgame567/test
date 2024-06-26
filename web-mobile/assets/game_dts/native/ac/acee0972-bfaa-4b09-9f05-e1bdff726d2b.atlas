@@ -1,0 +1,62 @@
+
+xyx_eff_bgguang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_v01/01_0
+  rotate: false
+  xy: 226, 186
+  size: 197, 234
+  orig: 197, 234
+  offset: 0, 0
+  index: -1
+bg_v01/02_0
+  rotate: false
+  xy: 425, 170
+  size: 175, 250
+  orig: 175, 252
+  offset: 0, 0
+  index: -1
+bg_v01/03_0
+  rotate: false
+  xy: 2, 189
+  size: 222, 231
+  orig: 222, 232
+  offset: 0, 0
+  index: -1
+bg_v01/04_0
+  rotate: true
+  xy: 329, 2
+  size: 166, 237
+  orig: 166, 263
+  offset: 0, 0
+  index: -1
+bg_v01/05_0
+  rotate: true
+  xy: 602, 170
+  size: 231, 163
+  orig: 231, 163
+  offset: 0, 0
+  index: -1
+bg_v01/06_0
+  rotate: false
+  xy: 767, 170
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+bg_v01/07_0
+  rotate: false
+  xy: 568, 9
+  size: 236, 159
+  orig: 236, 163
+  offset: 0, 4
+  index: -1
+bg_v01/08_0
+  rotate: true
+  xy: 2, 47
+  size: 138, 325
+  orig: 138, 329
+  offset: 0, 4
+  index: -1

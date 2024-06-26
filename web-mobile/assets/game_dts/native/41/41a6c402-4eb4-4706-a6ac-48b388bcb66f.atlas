@@ -1,0 +1,41 @@
+
+xyx_eff_booslaixi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/Rectangle 40209
+  rotate: false
+  xy: 2, 52
+  size: 371, 113
+  orig: 371, 113
+  offset: 0, 0
+  index: -1
+image/Union01_0
+  rotate: false
+  xy: 110, 2
+  size: 371, 9
+  orig: 371, 18
+  offset: 0, 4
+  index: -1
+image/boss
+  rotate: false
+  xy: 375, 13
+  size: 161, 152
+  orig: 164, 154
+  offset: 2, 2
+  index: -1
+image/g1_0
+  rotate: false
+  xy: 110, 20
+  size: 94, 30
+  orig: 132, 66
+  offset: 18, 17
+  index: -1
+image/g2_0
+  rotate: false
+  xy: 2, 8
+  size: 106, 42
+  orig: 132, 66
+  offset: 12, 11
+  index: -1
