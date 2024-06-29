@@ -1,0 +1,76 @@
+
+xyx_eff_chuizi.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuizi
+  rotate: false
+  xy: 465, 12
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+hongse_0
+  rotate: false
+  xy: 2, 2
+  size: 40, 39
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+somke/somke_0
+  rotate: false
+  xy: 413, 9
+  size: 50, 32
+  orig: 66, 47
+  offset: 11, 5
+  index: -1
+somke/somke_1
+  rotate: false
+  xy: 358, 8
+  size: 53, 33
+  orig: 66, 47
+  offset: 9, 5
+  index: -1
+somke/somke_2
+  rotate: false
+  xy: 309, 7
+  size: 47, 34
+  orig: 66, 47
+  offset: 9, 4
+  index: -1
+somke/somke_3
+  rotate: false
+  xy: 95, 4
+  size: 48, 37
+  orig: 66, 47
+  offset: 8, 2
+  index: -1
+somke/somke_4
+  rotate: false
+  xy: 257, 6
+  size: 50, 35
+  orig: 66, 47
+  offset: 7, 5
+  index: -1
+somke/somke_5
+  rotate: false
+  xy: 201, 6
+  size: 54, 35
+  orig: 66, 47
+  offset: 6, 6
+  index: -1
+somke/somke_6
+  rotate: false
+  xy: 145, 5
+  size: 54, 36
+  orig: 66, 47
+  offset: 7, 5
+  index: -1
+somke/somke_7
+  rotate: false
+  xy: 44, 4
+  size: 49, 37
+  orig: 66, 47
+  offset: 11, 5
+  index: -1

@@ -1,0 +1,118 @@
+
+xyx_eff_baozha.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodian/Smoke09_zy
+  rotate: false
+  xy: 516, 684
+  size: 221, 229
+  orig: 256, 256
+  offset: 21, 10
+  index: -1
+effect/baodian/baodian1
+  rotate: false
+  xy: 2, 401
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+effect/baodian/baolizi
+  rotate: false
+  xy: 2, 157
+  size: 242, 242
+  orig: 242, 242
+  offset: 0, 0
+  index: -1
+effect/baodian/daoguang_00
+  rotate: true
+  xy: 488, 312
+  size: 87, 310
+  orig: 87, 310
+  offset: 0, 0
+  index: -1
+effect/baodian/glow_1
+  rotate: false
+  xy: 246, 159
+  size: 240, 240
+  orig: 242, 242
+  offset: 0, 0
+  index: -1
+effect/baozha/baozha_0
+  rotate: true
+  xy: 516, 532
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+effect/baozha/baozha_1
+  rotate: true
+  xy: 671, 532
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+effect/baozha/baozha_2
+  rotate: true
+  xy: 739, 763
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+effect/baozha/baozha_3
+  rotate: true
+  xy: 488, 160
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+effect/baozha/baozha_4
+  rotate: false
+  xy: 643, 157
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+effect/baozha/baozha_5
+  rotate: false
+  xy: 488, 5
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+effect/baozha/baozha_6
+  rotate: false
+  xy: 246, 4
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+effect/baozha/baozha_7
+  rotate: false
+  xy: 2, 2
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+men1_0
+  rotate: true
+  xy: 782, 740
+  size: 21, 34
+  orig: 28, 51
+  offset: 0, 7
+  index: -1
+suipianyou
+  rotate: true
+  xy: 739, 734
+  size: 27, 41
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+suipianzuo 
+  rotate: true
+  xy: 818, 743
+  size: 18, 27
+  orig: 28, 43
+  offset: 5, 9
+  index: -1

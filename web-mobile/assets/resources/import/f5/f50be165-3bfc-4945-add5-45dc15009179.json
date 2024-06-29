@@ -1,0 +1,1 @@
+[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"gate","syntax = \"proto3\";\n\npackage gate;\noption go_package=\"game-server/protocol/gen/golang/gate/gatePb\";\n\nmessage KickResp {\n  int32 code = 1; // code\n}\n\nmessage LoginReq {\n  string token = 1; // token\n}\nmessage LoginResp {\n}"]],0,0,[],[],[]]
